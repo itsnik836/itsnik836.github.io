@@ -1,11 +1,11 @@
 # Hi, I'm Nikhil Anil! 👋
 <img src="assests.img/nikpic.jpg" alt="Nikhil Anil" width="150" style="border-radius: 50%;"><br>
-## Engineer & Data Science Student
+## Mechanical Engineer & Data Science Student
 
-I am an enthusiastic learner looking to apply my energy and skills to the growth of an organization. My goal is to gain the necessary experience and work in an environment that provides ample opportunities to learn and apply my knowledge.
+Data-driven and analytical thinker with a background in Mechanical Engineering and a passion for uncovering insights through data. Skilled in tools like Python, SQL, and Excel, and eager to apply these in real-world analytics projects. Seeking internships or entry-level roles in data analytics to contribute to impactful, insight-driven decision-making.
 
 📧 **Email**: itsnik836@gmail.com  
-📍 **Location**: Potsdam, Germany  
+📍 **Location**: currently in Dresden, Germany but willing to relocate for opportunities. 
 
 ---
 
@@ -13,7 +13,7 @@ I am an enthusiastic learner looking to apply my energy and skills to the growth
 
 - **M.Sc. Data Science**  
   *University of Applied Sciences Europe, Germany*  
-  *08/2024 - 05/2022*
+  *08/2024 - Present*
   
 - **B.Eng(Hons) Mechanical Engineering**  
   *University of Bolton (UK Affiliation)*  
