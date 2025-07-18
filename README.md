@@ -1,20 +1,42 @@
 # Hi, I'm Nikhil Anil! 👋
-<table>
-  <tr>
-    <td>
-      <img src="assests.img/nikpic.jpg" alt="Nikhil Anil" width="150" style="border-radius: 50%;" />
-    </td>
-    <td style="padding-left: 20px;">
-      <h1>Hi, I'm Nikhil Anil! 👋</h1>
-      <h3>Mechanical Engineer & Data Science Student</h3>
-      <p>
-        Data-driven and analytical thinker with a background in Mechanical Engineering and a passion for uncovering insights through data. Skilled in tools like Python, SQL, and Excel, and eager to apply these in real-world analytics projects. Seeking internships or entry-level roles in data analytics to contribute to impactful, insight-driven decision-making.
-      </p>
-      📧 <strong>Email</strong>: itsnik836@gmail.com<br>
-      📍 <strong>Location</strong>: Currently in Dresden, Germany but willing to relocate for opportunities.
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; gap: 40px;">
+
+  <!-- Left Column -->
+  <div style="flex: 1; max-width: 250px; text-align: center;">
+    <img src="assests.img/nikpic.jpg" alt="Nikhil Anil" width="150" style="border-radius: 50%;">
+    <h2>Nikhil Anil</h2>
+    <p>Example data analytics portfolio</p>
+    <p><a href="https://github.com/YOUR_USERNAME/YOUR_REPO" target="_blank">View the Project on GitHub</a></p>
+    <a href="YOUR_ZIP_LINK"><button>Download ZIP File</button></a><br><br>
+    <a href="YOUR_TAR_LINK"><button>Download TAR Ball</button></a><br><br>
+    <a href="https://github.com/YOUR_USERNAME/YOUR_REPO"><button>View On GitHub</button></a>
+  </div>
+
+  <!-- Right Column -->
+  <div style="flex: 3;">
+    <h1>Data Analyst</h1>
+    <p><strong>Technical Skills:</strong> Python, SQL, Power BI, Excel, Microsoft Office, Pandas, NumPy, Git</p>
+
+    <h2>Education</h2>
+    <ul>
+      <li><strong>M.Sc., Data Science</strong> — [Your University] *(Expected YYYY)*</li>
+      <li><strong>B.E., Mechanical Engineering</strong> — [Your College] *(YYYY)*</li>
+    </ul>
+
+    <h2>Work Experience</h2>
+    <p><strong>Data Intern @ Company Name</strong> *(Month YYYY – Month YYYY)*</p>
+    <ul>
+      <li>Example achievement or responsibility</li>
+      <li>Another data-focused contribution</li>
+    </ul>
+
+    <p><strong>Mechanical Intern @ Previous Company</strong> *(Month YYYY – Month YYYY)*</p>
+    <ul>
+      <li>Project or simulation work with a data angle</li>
+    </ul>
+  </div>
+
+</div>
 ## 🛠️ Technical Skills
 
 **Languages & Tools**: Python, SQL, Power BI, Excel, Microsoft Office Suite, Pandas, NumPy, Matplotlib, Jupyter Notebook
