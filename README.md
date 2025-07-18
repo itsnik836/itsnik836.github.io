@@ -1,5 +1,9 @@
 # Hi, I'm Nikhil Anil! 👋
 <img src="assests.img/nikpic.jpg" alt="Nikhil Anil" width="150" style="border-radius: 50%;"><br>
+## 🛠️ Technical Skills
+
+**Languages & Tools**: Python, SQL, Power BI, Excel, Microsoft Office Suite, Pandas, NumPy, Matplotlib, Jupyter Notebook
+
 ## Mechanical Engineer & Data Science Student
 
 Data-driven and analytical thinker with a background in Mechanical Engineering and a passion for uncovering insights through data. Skilled in tools like Python, SQL, and Excel, and eager to apply these in real-world analytics projects. Seeking internships or entry-level roles in data analytics to contribute to impactful, insight-driven decision-making.
@@ -25,13 +29,15 @@ Data-driven and analytical thinker with a background in Mechanical Engineering a
 
 ### 🔹 Data Analysis of Euro 2024 Player Data *(08/2024 - 09/2024)*
 <img src="assests.img/dssvisualization.png" alt="Euro 2024 Visualization" width="600"/>
-- Analyzed player data from Euro 2024.
-- Generated insights for clubs, investors, and advertisers.
+- Analyzed real world data from the most recent Euro2024.
+- Generated insights using tools such as Excel and PowerBI that could be used by clubs, investors, and advertisers.
 
 ### 🔹 Dynamic Simulation of Disc Brake and Pad *(01/2020 - 05/2021)*
-- Designed and analyzed a brake disc model.
-- Evaluated temperature, stress concentration, and contact pressure.
-- Assessed material combinations for braking efficiency.
+- Simulated thermal and stress responses using FEA tools to assess disc brake efficiency.
+
+- Analyzed material properties, temperature distribution, and pressure variation to optimize performance.
+
+- Applied engineering data interpretation techniques to guide design improvements.
 
 ---
 
@@ -57,7 +63,8 @@ Data-driven and analytical thinker with a background in Mechanical Engineering a
 - Python (Jupyter Notebook)  
 - SolidWorks  
 - Creativity & Teamwork  
-- Interpersonal Skills  
+- Interpersonal Skills
+- 
 
 ---
 
