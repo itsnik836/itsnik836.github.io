@@ -1,42 +1,5 @@
 # Hi, I'm Nikhil Anil! 👋
-<div style="display: flex; align-items: flex-start; gap: 40px;">
 
-  <!-- Left Column -->
-  <div style="flex: 1; max-width: 250px; text-align: center;">
-    <img src="assests.img/nikpic.jpg" alt="Nikhil Anil" width="150" style="border-radius: 50%;">
-    <h2>Nikhil Anil</h2>
-    <p>Example data analytics portfolio</p>
-    <p><a href="https://github.com/YOUR_USERNAME/YOUR_REPO" target="_blank">View the Project on GitHub</a></p>
-    <a href="YOUR_ZIP_LINK"><button>Download ZIP File</button></a><br><br>
-    <a href="YOUR_TAR_LINK"><button>Download TAR Ball</button></a><br><br>
-    <a href="https://github.com/YOUR_USERNAME/YOUR_REPO"><button>View On GitHub</button></a>
-  </div>
-
-  <!-- Right Column -->
-  <div style="flex: 3;">
-    <h1>Data Analyst</h1>
-    <p><strong>Technical Skills:</strong> Python, SQL, Power BI, Excel, Microsoft Office, Pandas, NumPy, Git</p>
-
-    <h2>Education</h2>
-    <ul>
-      <li><strong>M.Sc., Data Science</strong> — [Your University] *(Expected YYYY)*</li>
-      <li><strong>B.E., Mechanical Engineering</strong> — [Your College] *(YYYY)*</li>
-    </ul>
-
-    <h2>Work Experience</h2>
-    <p><strong>Data Intern @ Company Name</strong> *(Month YYYY – Month YYYY)*</p>
-    <ul>
-      <li>Example achievement or responsibility</li>
-      <li>Another data-focused contribution</li>
-    </ul>
-
-    <p><strong>Mechanical Intern @ Previous Company</strong> *(Month YYYY – Month YYYY)*</p>
-    <ul>
-      <li>Project or simulation work with a data angle</li>
-    </ul>
-  </div>
-
-</div>
 ## 🛠️ Technical Skills
 
 **Languages & Tools**: Python, SQL, Power BI, Excel, Microsoft Office Suite, Pandas, NumPy, Matplotlib, Jupyter Notebook
