@@ -24,7 +24,7 @@ Data-driven and analytical thinker with a background in Mechanical Engineering a
 ## 🚀 Projects
 
 ### 🔹 Data Analysis of Euro 2024 Player Data *(08/2024 - 09/2024)*
-<img src="assets/images/dssvisualization.png" alt="Euro 2024 Visualization" width="600"/>
+<img src="assests.img/dssvisualization.png" alt="Euro 2024 Visualization" width="600"/>
 - Analyzed player data from Euro 2024.
 - Generated insights for clubs, investors, and advertisers.
 
