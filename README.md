@@ -1,5 +1,5 @@
 # Hi, I'm Nikhil Anil! 👋
-<img src="aassests.img/Nik picture.jpg" alt="Nikhil Anil" width="150" style="border-radius: 50%;"><br>
+<img src="<img src="assests/images/Nik%20picture.jpg" alt="Nikhil Anil" width="150" style="border-radius: 50%;"><br>" alt="Nikhil Anil" width="150" style="border-radius: 50%;"><br>
 ## Engineer & Data Science Student
 
 I am an enthusiastic learner looking to apply my energy and skills to the growth of an organization. My goal is to gain the necessary experience and work in an environment that provides ample opportunities to learn and apply my knowledge.
