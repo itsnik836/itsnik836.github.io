@@ -1,17 +1,16 @@
 # Hi, I'm Nikhil Anil! 👋
-<div style="display: flex; align-items: center;">
-  <img src="assests.img/nikpic.jpg" alt="Nikhil Anil" width="150" style="border-radius: 50%; margin-right: 20px;">
-  <div>
-    <h1>Hi, I'm Nikhil Anil! 👋</h1>
-    <h3>Mechanical Engineer & Data Science Student</h3>
-    <p>
-      Data-driven and analytical thinker with a background in Mechanical Engineering and a passion for uncovering insights through data. Skilled in tools like Python, SQL, and Excel, and eager to apply these in real-world analytics projects. Seeking internships or entry-level roles in data analytics to contribute to impactful, insight-driven decision-making.
-    </p>
-    📧 <strong>Email</strong>: itsnik836@gmail.com<br>
-    📍 <strong>Location</strong>: Currently in Dresden, Germany but willing to relocate for opportunities.
-  </div>
-</div>
-## 🛠️ Technical Skills
+<img src="assests.img/nikpic.jpg" alt="Nikhil Anil" width="150" style="border-radius: 50%;"><br>
+
+## Mechanical Engineer & Data Science Student
+
+Data-driven and analytical thinker with a background in Mechanical Engineering and a passion for uncovering insights through data. Skilled in tools like Python, SQL, and Excel, and eager to apply these in real-world analytics projects. Seeking internships or entry-level roles in data analytics to contribute to impactful, insight-driven decision-making.
+
+📧 **Email**: itsnik836@gmail.com  
+📍 **Location**: currently in Dresden, Germany but willing to relocate for opportunities.  
+
+### 🛠️ Technical Skills
+
+**Languages & Tools**: Python, SQL, Power BI, Excel, Microsoft Office Suite, Pandas, NumPy, Matplotlib, Jupyter Notebook
 
 **Languages & Tools**: Python, SQL, Power BI, Excel, Microsoft Office Suite, Pandas, NumPy, Matplotlib, Jupyter Notebook
 
